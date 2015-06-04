@@ -12,8 +12,8 @@ Get artists by search from spotify and display top tracks for selected artist
 #####2.Spotify api for android to get the results of artists and artist tracks.
 
 ###App screenshots
-![Alt text](https://cloud.githubusercontent.com/assets/7348020/7973663/26575f98-0a26-11e5-9ab7-555de8e4229e.png)
-![Alt text](https://cloud.githubusercontent.com/assets/7348020/7973662/250191cc-0a26-11e5-9c77-b335af7efe49.png)
+![Alt text](https://cloud.githubusercontent.com/assets/7348020/7995639/e7e10f5a-0ae5-11e5-898a-7eead6ea27f1.png)
+![Alt text](https://cloud.githubusercontent.com/assets/7348020/7995640/e96adfd6-0ae5-11e5-8131-3e59904bfc0d.png)
 
 
 
